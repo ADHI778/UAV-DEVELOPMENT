@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Large/generated files
+*.bin
+*.hex
+*.elf
+
+# Mission Planner / flight logs
+*.tlog
+*.rlog
+*.ulg
